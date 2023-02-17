@@ -1,2 +1,2 @@
 # CPS530-AD
-Code for Gale Shapely Algorithm to find a stable matching.
+Python code for Gale Shapely Algorithm to find a stable matching.
